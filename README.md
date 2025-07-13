@@ -117,8 +117,8 @@ MyFolder/
 
 # 📝 Assignment Information
 
-**Organisation**: Code Shape IT Solutions
-**Topic1**: Python Intern Task
+- **Organisation**: Code Shape IT Solutions
+- **Topic1**: Python Intern Task
 **Task**: Console Based File Management and Organization Program  
 **Language**: Python 3  
 **Concepts**: File I/O, Error Handling, File System Operations
