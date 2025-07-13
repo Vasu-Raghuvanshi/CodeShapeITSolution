@@ -119,14 +119,14 @@ MyFolder/
 
 - **Organisation**: Code Shape IT Solutions
 - **Topic1**: Python Intern Task
-**Task**: Console Based File Management and Organization Program  
-**Language**: Python 3  
-**Concepts**: File I/O, Error Handling, File System Operations
+- **Task**: Console Based File Management and Organization Program  
+- **Language**: Python 3  
+- **Concepts**: File I/O, Error Handling, File System Operations
 
 ---
 
-**Name**: Vasu Raghuvanshi
-**E-mail**: vasuraghuvanshi001@gmail.com
-**CodeShapeEmail**: codeshapeitsolution@gmail.com
-**Website**: https://codeshapeitsolution.com/
-**Date**: 13/07/2025
+- **Name**: Vasu Raghuvanshi
+- **E-mail**: vasuraghuvanshi001@gmail.com
+- **CodeShapeEmail**: codeshapeitsolution@gmail.com
+- **Website**: https://codeshapeitsolution.com/
+- **Date**: 13/07/2025
