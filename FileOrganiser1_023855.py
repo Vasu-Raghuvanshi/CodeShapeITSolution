@@ -41,7 +41,7 @@ def get_file_type(filename):
         "Logs": ['log'],
         "Others": []  # For uncategorized file types
     }
-
+    #Creates Subfolder based on filetype
     for category, extensions in FILE_CATEGORIES.items():
         if extension in extensions:
             create_folder(category)
@@ -69,10 +69,10 @@ def get_unique_filename(file_type, filename):
 
 def organize_files():
     """Main function to organize files"""
-    # Get folder to organize (default: Download)
-    folder = input("Enter folder name (or press Enter for 'Download'): ").strip()
+    # Get folder to organize (default: Downloads)
+    folder = input("Enter folder name (or press Enter for 'Downloads'): ").strip()
     if not folder:
-        folder = "Download"
+        folder = "Downloads"
 
     # Check if folder exists
     if not os.path.exists(folder):
