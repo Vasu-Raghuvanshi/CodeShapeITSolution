@@ -66,7 +66,7 @@ python main.py
 
 ## 📋 How to Use
 
-1. **Run the program**: Execute `python main.py` in your terminal
+1. **Run the program**: Execute `python main.py` in your terminal or IDE such as Vs Code or Cursor
 2. **Choose folder**: 
    - Type the full path of the folder you want to organize
    - Or press Enter to use the default "Download" folder
@@ -127,4 +127,6 @@ MyFolder/
 
 **Name**: Vasu Raghuvanshi
 **E-mail**: vasuraghuvanshi001@gmail.com
+**CodeShapeEmail**: codeshapeitsolution@gmail.com
+**Website**: https://codeshapeitsolution.com/
 **Date**: 13/07/2025
